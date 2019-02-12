@@ -1,1 +1,1 @@
-module github/ssipflow/testgo
+module github.com/ssipflow/testgo
